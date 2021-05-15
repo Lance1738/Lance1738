@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Lance
 
-I'm a current senior at Wallenberg High School in San Francisco and planning to pursue my undergrad degree at Purdue University for Computer Science.
+I'm a Student, Programmer, and Innovator!
 
 
 🌱 I’m currently learning learning Python and JavaScript.
+👯 I’m looking to collaborate on open source projects. 
+⚡ Fun fact: I love travelling and exploring new places. 
+
 
 <!--
 **Lance1738/Lance1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
