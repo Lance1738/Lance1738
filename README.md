@@ -1,11 +1,15 @@
-### Hi there 👋, I'm Lance
+## Hi there 👋, I'm Lance
 
-I'm a Student, Programmer, and Innovator!
+### I'm a Student, Programmer, and Innovator!
 
 
 🌱 I’m currently learning learning Python and JavaScript.
 👯 I’m looking to collaborate on open source projects. 
 ⚡ Fun fact: I love travelling and exploring new places. 
+
+
+
+
 
 
 <!--
