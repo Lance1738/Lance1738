@@ -2,9 +2,10 @@
 
 ### I'm a Student, Programmer, and Innovator!
 
-
 🌱 I’m currently learning learning Python and JavaScript.
+
 👯 I’m looking to collaborate on open source projects. 
+
 ⚡ Fun fact: I love travelling and exploring new places. 
 
 
